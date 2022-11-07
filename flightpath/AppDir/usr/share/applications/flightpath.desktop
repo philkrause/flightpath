@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Created with GameMaker Studio 2
+Path=/usr/bin/
+Exec=flightpath
+Icon=flightpath
+Terminal=false
+Categories=Game;
